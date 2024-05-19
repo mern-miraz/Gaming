@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+input{
+    outline: none;
+}
+.playerone{
+    text-align: center;
+    padding-top: 50px;
+}
+.playertwo{
+    text-align: center;
+    padding-top: 50px;
+    display: none;
+}
+.playeroneerr{
+    color: red;
+    font-family: sans-serif;
+}
+.playertwoerr{
+    color: red;
+    font-family: sans-serif;
+}
